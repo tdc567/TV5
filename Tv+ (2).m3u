@@ -3018,3 +3018,11 @@ http://cord-cutter.net:8080/X5xRz0/944877/14197?checkedby:alliptvlinks.com
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=215596&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="github", US USA Network alliptvlinks.com
 http://fl2.moveonjoy.com/USA_Network/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US NBC Sports Network (F) Backup NO_5 alliptvlinks.com
+http://cord-cutter.net:8080/25464931/30585186/46725?checkedby:alliptvlinks.com
+#EXTINF:-1, US | NBC alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419895?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="North America github", fubo Sports Network (720p) alliptvlinks.com
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Free Foreign Sports", Bein Sports USA alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:alliptvlinks.com&checkedby:alliptvlinks.com
