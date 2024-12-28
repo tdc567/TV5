@@ -21,6 +21,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tu
 https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Religious",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+#EXTINF:-1, US YES Network alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/57972?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="General",7ALimoges (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News",7 Info (1080p) [Not 24/7]
